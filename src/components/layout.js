@@ -9,9 +9,8 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
-      <h1
+      <h3
         style={{
-          ...scale(1.5),
           marginBottom: rhythm(1.5),
           marginTop: 0,
         }}
@@ -25,7 +24,10 @@ const Layout = ({ location, title, children }) => {
         >
           {title}
         </Link>
-      </h1>
+        <ul style={{ listStyle: `none`, float: `right` }}>
+          <a href="https://twitter.com/unicell">Twitter</a>
+        </ul>
+      </h3>
     )
   } else {
     header = (
