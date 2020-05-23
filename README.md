@@ -10,7 +10,6 @@ Source of [**unicell.dev**](https://unicell.dev)
 
 [mit]: http://www.opensource.org/licenses/MIT
 
-
 ### Content
 
 ![CC BY NC SA 4.0 license button][cc-by-nc-sa-png]
