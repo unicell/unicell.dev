@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[QY's Dev Notes]]></title><description><![CDATA[QY's Dev Notes.]]></description><link>https://unicell.dev</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 May 2020 07:24:23 GMT</lastBuildDate><item><title><![CDATA[TODO Management Tools]]></title><description><![CDATA[TODO mangement is not new to me. Over the years, I’ve tried several
+things. And yet, I still have this constant feeling that there’re so…]]></description><link>https://unicell.dev/todo-management-tools/</link><guid isPermaLink="false">https://unicell.dev/todo-management-tools/</guid><pubDate>Fri, 22 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;TODO mangement is not new to me. Over the years, I’ve tried several
+things. And yet, I still have this constant feeling that there’re so many
+things: study items, books, bookmarks, blog plans sitting there, in my list,
+idled. Sometimes when I started cleanup, the dates on the record brutely remind
+me that last update was years ago already.&lt;/p&gt;
+&lt;p&gt;This post serves mainly for my own retrospection. Hopefully can provide some
+useful reference for others as well.&lt;/p&gt;
+&lt;h2&gt;Prior Art&lt;/h2&gt;
+&lt;p&gt;Initially I mixed TODO management together with my knowledge management solution
+(more on that in a different post). Basically in a plain text form getting
+synchronized through a repository.&lt;/p&gt;
+&lt;p&gt;Obviously that was not very efficient. It was geared towards desktop working
+environment and almost not suitable for any non-work related usecases.&lt;/p&gt;
+&lt;p&gt;I switched to &lt;a href=&quot;https://www.rememberthemilk.com/&quot;&gt;remember the milk&lt;/a&gt;, or RTM,
+shortly after, which is a TODO / task management tool with both web, desktop and
+mobile versions. I was a happy user for years and especially like its colors,
+keyboard shortcuts and overall look-n-feel.&lt;/p&gt;
+&lt;p&gt;But over the time, I kind of rely more on &lt;a href=&quot;https://evernote.com/&quot;&gt;Evernote&lt;/a&gt; than
+RTM. That’s mostly because random things come here and there, unstructureed.
+Evernote fits better for that. It’s kind of interesting, because I moved back to
+a similar text based notes management solution, just picked Evernote for the
+sake of sychronizability.&lt;/p&gt;
+&lt;p&gt;Evernote is not an answer to task management as well. I tried, by keeping notes in
+Evernote tracking things I plan to do on bi-weekly basis. Inside a note for
+bi-weekly plan, there’re daily items. Since it is purely a notebook, I can keep
+random notes, move text around, update the TODO item with a strikethrough etc.
+The downside though, now when I look back, is that: It is a great solution
+capturing thoughts, get information organized, or keeping records. It is not
+however helping me to get things done.&lt;/p&gt;
+&lt;h2&gt;New Start&lt;/h2&gt;
+&lt;p&gt;Tool wise, I realized I need something really lightweight that could help me
+to manage TODOs on the go. For that, at least I need a product that can
+synchronize across platforms (desktop, web and mobile). And for desktop version,
+I need good keyboard shortcuts support: navigation, editing etc. (remember the
+milk is doing perfect on that front).&lt;/p&gt;
+&lt;p&gt;Other typical features task management tool provide, for me, are nice to have,
+but barely a decision point. (i.e. labels, subtasks, notifications, 3rd party
+intgraions)&lt;/p&gt;
+&lt;p&gt;What I’m really looking for, with my next TODO management tool, is an
+achievement system as in gaming systems. A simple thing like that will make a
+difference to motivate me get things done. I learned that from my own
+&lt;a href=&quot;https://www.fitbit.com/&quot;&gt;Fitbit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That’s why I endup picking &lt;a href=&quot;https://todoist.com/&quot;&gt;Todoist&lt;/a&gt; as a paid user, just
+for the “Productivity Trend” feature. It visualized the completed items in color
+code, together with a goal setting and karma points. After a few weeks use, I do
+feel it started to help me to get more things done. Actually, this blog post
+itself is the very result of it. ^^&lt;/p&gt;
+&lt;h2&gt;Other Words&lt;/h2&gt;
+&lt;p&gt;The tooling itself of course is not the core piece in my productivity quest. But
+it plays a vital part. It probably deserves another post for the practices with
+the tooling support. But here is a quick note (to myself): Try to keep a shorter
+todo list and a healthy turn over rate.&lt;/p&gt;</content:encoded></item></channel></rss>
