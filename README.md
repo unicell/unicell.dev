@@ -21,4 +21,3 @@ unless otherwise specified.
 
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 [cc-by-nc-sa-png]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-
